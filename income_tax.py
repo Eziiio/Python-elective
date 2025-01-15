@@ -12,4 +12,4 @@ def calculate_tax(income):
     return tax
 income = float(input("Enter your income: "))
 tax = calculate_tax(income)
-print(f"Your income tax is: {tax}")
+print(f"Your income tax is : {tax}")
