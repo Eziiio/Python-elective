@@ -1,0 +1,3 @@
+x=int(input("Enter a number:"))
+sqr_rt=x**0.5
+print("sqr_rt of",x,"is",sqr_rt)
