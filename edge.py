@@ -54,6 +54,7 @@ def detectEdges(image, amount):
 
 
 
+
 x = Image(input("path\t"))
 
 detectEdges(x, 10).draw()
